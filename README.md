@@ -14,12 +14,12 @@ Project to be done in teams of 2 people (By Sulaimon Abodunrin and Najib Tackie)
 * What is a stable sorting algorithm
 
 ## O Notation
-O(1)
-O(n)
-O(n!)
-n square -> O(n^2)
-log(n) -> O(log(n))
-n * log(n) -> O(nlog(n))
-n + k -> O(n+k)
+* O(1)
+* O(n)
+* O(n!)
+* n square -> O(n^2)
+* log(n) -> O(log(n))
+* n * log(n) -> O(nlog(n))
+* n + k -> O(n+k)
 
 __More Update...__
